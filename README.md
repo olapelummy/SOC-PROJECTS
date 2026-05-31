@@ -6,17 +6,35 @@
 ### �� My Work
 - �� [LinkedIn Profile](https://linkedin.com/in/afolabi-olasupo-emmanuel)
 
-- �� [Resume](#) (Upload your resume as a file to this repository or link to
-an external site)
+- �� [Resume](#) ([https://docs.google.com/document/d/19VJrsxchBkyIh6FOLPruIo5_dt72EfjX/edit?usp=drive_link&ouid=106986635522032635802&rtpof=true&sd=true])
 ### ��️ Skills
-- **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
-Risk Assessments, Network Security, Endpoint security,
-- **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+- **Technical Expertise**:
+* Cybersecurity Analysis
+* AI & Cloud Computing
+* Penetration Testing
+* SOC Operations & SIEM Monitoring
+* Firewall & IDS/IPS Endpoint security Management
+* Vulnerability Assessment
+* Risk Management & Compliance
+* Incident Response
+* Network Security
+* Cloud Infrastructure Security
+* Threat Intelligence
+* Linux, Windows & macOS Administration
+* Cisco Networking & VPN Configuration
+* Automation & System Optimization
+* IT Infrastructure Management
+* Problem Solving & Analytical Thinking
+- **Tools**: pfSense,Snort IDS/IPS,Nmap,Metasploit,Hydra,Nessus,VMware,VirtualBox,Cisco Packet Tracer,Active Directory,Office 365
+G Suite,Zoom,Linux,Windows Server,Cisco Routing & Switching,VPN Technologies,SIEM Tools,TCP/IP, DNS, SSH, HTTP, SMB, FTP
+AI Security & Automation Tools
+Cloud Platforms (AWS, Azure, Google Cloud)
 ### �� GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
 ### ✨ Fun Fact
-I&#39;m on a (fill in the gap).
+I enjoy exploring emerging technologies, automating processes, and staying ahead of cybersecurity trends — always learning how AI and cloud innovations can make systems smarter, faster, and more secure.
+.
 
 
 
