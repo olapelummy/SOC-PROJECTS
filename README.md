@@ -41,7 +41,7 @@ stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical
 ### ✨ Fun Fact
 I enjoy exploring emerging technologies, automating processes, and staying ahead of cybersecurity trends — always learning how AI and cloud innovations can make systems smarter, faster, and more secure.
 .
-![Stars](https://img.shields.io/github/stars/olapelummy/SOC-PROJECTS)
+![Followers](https://img.shields.io/github/followers/olapelummy/SOCPROJECTS?style=social)
 
 
 
