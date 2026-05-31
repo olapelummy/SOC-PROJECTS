@@ -1,3 +1,9 @@
+# My Portfolio
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Hi, I'm Afolabi Emmanuel Olasupo! ��
 ### �� About Me
 - ��️ Cybersecurity Specialist
